@@ -1,16 +1,17 @@
-## Hi there 👋
+# fadak
+## fati and narges
+### computer
 
-<!--
-**ProjectUni123/ProjectUni123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+a=0
+print(a)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- python
+- deep
+  - rnn
+  - cnn
+- lnp
+
+![flower](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_pw1BpBfuZAevTRIg7RFQD1NZzdrEy016w&s)
