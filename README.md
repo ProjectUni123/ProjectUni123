@@ -2,11 +2,18 @@
 ## fati and narges
 ### computer
 ## nargesi
-
 ```python
-a=0
+a='abcdefg'
 print(a)
 ```
+```python
+b=0
+print(b)
+```
+- c
+ - c++
+ - c#
+ - ...
 
 - python
 - deep
