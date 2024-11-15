@@ -1,7 +1,7 @@
 # fadak
 ## fati and narges
 ### computer
-##narges
+
 
 ```python
 a=0
